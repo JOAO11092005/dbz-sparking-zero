@@ -9,7 +9,7 @@ function imagem(resposta) {
         body.style.background = `url('https://www.publicdomainpictures.net/pictures/200000/nahled/plain-black-background.jpg') center center no-repeat`;
         body.style.backgroundColor = '#000000'
     } else {
-        site.style.display = 'block'
+        img.style.display = 'block'
     }
 }
 

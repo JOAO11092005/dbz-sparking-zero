@@ -6,17 +6,22 @@ async function db() {
     const resultado = await fetch(url)
     const data = await resultado.json()
     // console.log(data[0]['name'])
+    const body = document.querySelector("body");
+    const script = document.createElement("script")
+    script.src = 'https://dbzdata.netlify.app/src/js/securitImage.js'
     return data
+
+
 }
 
 function personagem() {
     const dados = db().then(resultado => {
-        
+
         for (let i = 0; i < resultado.length; i++) {
             characters(resultado[i]['name'], resultado[i]['image'])
         }
     })
-    
+
 
 }
 
@@ -43,7 +48,7 @@ personagem()
 let temaPadrao = 'c'
 
 function alterarTema(resposta) {
-   
+
     if (resposta === 'c') {
         const fundo = document.querySelector('.fundo')
         const body = document.querySelector('body')
@@ -57,7 +62,7 @@ function alterarTema(resposta) {
             <img src="./src/img/lua.png" alt="Tema" title="Tema">
         `
         temaPadrao = 'e'
-    }else if(resposta === 'e'){
+    } else if (resposta === 'e') {
         const fundo = document.querySelector('.fundo')
         const body = document.querySelector('body')
         body.style.color = 'white'
@@ -74,6 +79,6 @@ function alterarTema(resposta) {
 
 }
 
-   tema.addEventListener("click" , function(){
-      alterarTema(temaPadrao)
-   })
+tema.addEventListener("click", function () {
+    alterarTema(temaPadrao)
+})
