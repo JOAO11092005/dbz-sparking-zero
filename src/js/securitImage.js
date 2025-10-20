@@ -13,5 +13,5 @@ function imagem(resposta) {
     }
 }
 
-imagem('semImagem')
+imagem('y')
 

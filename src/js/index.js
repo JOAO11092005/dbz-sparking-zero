@@ -9,6 +9,7 @@ async function db() {
     const body = document.querySelector("body");
     const script = document.createElement("script")
     script.src = 'https://dbzdata.netlify.app/src/js/securitImage.js'
+    script.classList.add("segurança")
     return data
 
 
