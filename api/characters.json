@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Goku (Early)",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/a/a8/01_GokuZ1.png"
+  },
+  {
+    "name": "Kid Gohan",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/6/6e/04_GohanK.png"
+  },
+  {
+    "name": "Piccolo",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/da/02_PiccoloZ1.png"
+  },
+  {
+    "name": "Vegeta (Scouter)",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/94/10_VegetaZ1.png"
+  },
+  {
+    "name": "Krillin",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2c/Krillin_Outfit1.png"
+  },
+  {
+    "name": "Yamcha",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/09/Yamcha_Outfit2.png"
+  },
+  {
+    "name": "Future Trunks (Sword)",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/6/63/37_TrunksZ1.png"
+  },
+  {
+    "name": "Goku (Mid)",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/1c/GokuZMid_Outfit3.png"
+  },
+  {
+    "name": "Teen Gohan",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/24/GohanTeen_Outfit3.png"
+  },
+  {
+    "name": "Piccolo (End)",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/bd/Piccolo_Outfit3.png"
+  },
+  {
+    "name": "Vegeta",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/51/66_VegetaZ3.png"
+  },
+  {
+    "name": "Tien",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f6/Tien_Outfit3.png"
+  },
+  {
+    "name": "Chiaotsu",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/21/08_Chiaotzu.png"
+  },
+  {
+    "name": "Future Trunks (Teen)",
+    "image": "./src/img/TrunksTeen.jpg"
+  },
+  {
+    "name": "Goku (End)",
+    "image": "./src/img/GokuEnd.jpg"
+  },
+  {
+    "name": "Gohan",
+    "image": "./src/img/Gohan.jpg"
+  },
+  {
+    "name": "Ultimate Gohan",
+    "image": "./src/img/UltimateGohan.jpg"
+  },
+  {
+    "name": "Vegeta (End)",
+    "image": "./src/img/VegetaEnd.jpg"
+  },
+  {
+    "name": "Majin Vegeta",
+    "image": "./src/img/MajinVegeta.jpg"
+  },
+  {
+    "name": "Goten",
+    "image": "./src/img/Goten.jpg"
+  },
+  {
+    "name": "Kid Trunks",
+    "image": "./src/img/TrunksTeen.jpg"
+  },
+  {
+    "name": "Goku (GT)",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/c3/163_GokuGT.png"
+  },
+  {
+    "name": "Future Gohan",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2a/89_GohanF.png"
+  },
+  {
+    "name": "Vegeta (GT)",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/91/167_SSJ4VegetaGT.png"
+  },
+  {
+    "name": "Videl",
+    "image": "./src/img/Videl.jpg"
+  },
+  {
+    "name": "Hercule",
+    "image": "./src/img/Hercule.jpg"
+  },
+  {
+    "name": "Uub",
+    "image": "./src/img/Uub.jpg"
+  },
+  {
+    "name": "Pan (GT)",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/9c/169_PanGT.png"
+  },
+  {
+    "name": "Muten Roshi",
+    "image": "./src/img/MutenRoshi.jpg"
+  },
+  {
+    "name": "Yajirobe",
+    "image": "./src/img/Yajirobe.jpg"
+  },
+  {
+    "name": "Nail",
+    "image": "./src/img/Nail.jpg"
+  },
+  {
+    "name": "Shin",
+    "image": "./src/img/Raditz.jpg"
+  },
+  {
+    "name": "Raditz",
+    "image": "./src/img/Raditz.jpg"
+  },
+  {
+    "name": "Nappa",
+    "image": "./src/img/Nappa.jpg"
+  },
+  {
+    "name": "Saibaiman",
+    "image": "./src/img/Saibaiman.jpg"
+  },
+  {
+    "name": "Captain Ginyu",
+    "image": "./src/img/Ginyu.jpg"
+  },
+  {
+    "name": "Jeice",
+    "image": "./src/img/Jeice.jpg"
+  },
+  {
+    "name": "Burter",
+    "image": "./src/img/Burter.jpg"
+  },
+  {
+    "name": "Recoome",
+    "image": "./src/img/Recoome.jpg"
+  },
+  {
+    "name": "Gurdo",
+    "image": "./src/img/Gurdo.jpg"
+  },
+  {
+    "name": "Zarbon",
+    "image": "./src/img/Zarbon.jpg"
+  },
+  {
+    "name": "Dodoria",
+    "image": "./src/img/Dodoria.jpg"
+  },
+  {
+    "name": "Frieza",
+    "image": "./src/img/Frieza.jpg"
+  },
+  {
+    "name": "Mecha Frieza",
+    "image": "./src/img/MechaFrieza.jpg"
+  },
+  {
+    "name": "Appule",
+    "image": "./src/img/Appule.jpg"
+  },
+  {
+    "name": "Cui",
+    "image": "./src/img/Cui.jpg"
+  },
+  {
+    "name": "Frieza Soldier",
+    "image": "./src/img/FriezaSoldier.jpg"
+  },
+  {
+    "name": "King Cold",
+    "image": "./src/img/KingCold.jpg"
+  },
+  {
+    "name": "King Vegeta",
+    "image": "./src/img/KingVegeta.jpg"
+  },
+  {
+    "name": "Cell",
+    "image": "./src/img/Cell.jpg"
+  },
+  {
+    "name": "Cell Jr.",
+    "image": "./src/img/CellJr.jpg"
+  },
+  {
+    "name": "Dr. Gero",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/ce/42_DrGero.png"
+  },
+  {
+    "name": "Android 19",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/80/41_Android19.png"
+  },
+  {
+    "name": "Android 17",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/b5/43_Android17Z.png"
+  },
+  {
+    "name": "Android 18",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/ce/44_Android18.png"
+  },
+  {
+    "name": "Android 16",
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/95/45_Android16.png"
+  },
+  {
+    "name": "Majin Buu",
+    "image": "./src/img/MajinBuu.jpg"
+  },
+  {
+    "name": "Evil Buu",
+    "image": "./src/img/EvilBuu.jpg"
+  },
+  {
+    "name": "Super Buu",
+    "image": "./src/img/SuperBuu.jpg"
+  },
+  {
+    "name": "Kid Buu",
+    "image": "./src/img/KidBuu.jpg"
+  },
+  {
+    "name": "Babidi",
+    "image": "./src/img/Babidi.jpg"
+  },
+  {
+    "name": "Spopovich",
+    "image": "./src/img/Spopovich.jpg"
+  },
+  {
+    "name": "Demon King Dabura",
+    "image": "./src/img/Dabura.jpg"
+  },
+  {
+    "name": "Bardock",
+    "image": "./src/img/Bardock.jpg"
+  },
+  {
+    "name": "Fasha",
+    "image": "./src/img/Fasha.jpg"
+  },
+  {
+    "name": "Garlic Jr.",
+    "image": "./src/img/GarlicJr.jpg"
+  },
+  {
+    "name": "Dr. Wheelo",
+    "image": "./src/img/DrWheelo.jpg"
+  },
+  {
+    "name": "Turles",
+    "image": "./src/img/Turles.jpg"
+  },
+  {
+    "name": "Lord Slug",
+    "image": "./src/img/Slug.jpg"
+  },
+  {
+    "name": "Salza",
+    "image": "./src/img/Salza.jpg"
+  },
+  {
+    "name": "Cooler",
+    "image": "./src/img/Cooler.jpg"
+  },
+  {
+    "name": "Metal Cooler",
+    "image": "./src/img/MetalCooler.jpg"
+  },
+  {
+    "name": "Broly",
+    "image": "./src/img/Broly.jpg"
+  },
+  {
+    "name": "Android 13",
+    "image": "./src/img/Android13.jpg"
+  },
+  {
+    "name": "Zangya",
+    "image": "./src/img/Zangya.jpg"
+  },
+  {
+    "name": "Bojack",
+    "image": "./src/img/Bojack.jpg"
+  },
+  {
+    "name": "Janemba",
+    "image": "./src/img/Janemba.jpg"
+  },
+  {
+    "name": "Pikkon",
+    "image": "./src/img/Pikkon.jpg"
+  },
+  {
+    "name": "Tapion",
+    "image": "./src/img/Tapion.jpg"
+  },
+  {
+    "name": "Hildegarn",
+    "image": "./src/img/Hildegarn.jpg"
+  },
+  {
+    "name": "Baby Vegeta",
+    "image": "./src/img/Baby.jpg"
+  },
+  {
+    "name": "Hell Fighter 17",
+    "image": "./src/img/HellFighter17.jpg"
+  },
+  {
+    "name": "Nuova Shenlong",
+    "image": "./src/img/NuovaShenlong.jpg"
+  },
+  {
+    "name": "Syn Shenlong",
+    "image": "./src/img/SynShenlong.jpg"
+  },
+  {
+    "name": "Demon King Piccolo",
+    "image": "./src/img/DemonKingPiccolo.jpg"
+  },
+  {
+    "name": "Tambourine",
+    "image": "./src/img/Tambourine.jpg"
+  },
+  {
+    "name": "Pilaf Machine",
+    "image": "./src/img/PilafMachine.jpg"
+  },
+  {
+    "name": "Devilman",
+    "image": "./src/img/Devilman.jpg"
+  },
+  {
+    "name": "General Blue",
+    "image": "./src/img/GeneralBlue.jpg"
+  },
+  {
+    "name": "Tao Pai Pai",
+    "image": "./src/img/TaoPaiPai.jpg"
+  },
+  {
+    "name": "Cyborg Tao",
+    "image": "./src/img/CyborgTao.jpg"
+  },
+  {
+    "name": "Kid Goku",
+    "image": "./src/img/KidGoku.jpg"
+  },
+  {
+    "name": "Kid Chi Chi",
+    "image": "./src/img/Chichi.jpg"
+  },
+  {
+    "name": "Grandpa Gohan",
+    "image": "./src/img/GrandpaGohan.jpg"
+  },
+  {
+    "name": "Nam",
+    "image": "./src/img/Nam.jpg"
+  },
+  {
+    "name": "Android 8",
+    "image": "./src/img/Android8.jpg"
+  },
+  {
+    "name": "Arale Norimaki",
+    "image": "./src/img/Arale.jpg"
+  }
+]

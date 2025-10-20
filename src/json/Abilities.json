@@ -1,0 +1,167 @@
+{
+  "GokuEarly": {
+    "name": "Goku (Early)",
+    "skins": {
+      "Turtle School Emblem": {
+        "img": "../src/img/TurtleSchoolGI.jpg",
+        "skills": ["Wild Sense", "Solar Flare", "Kamehameha", "Meteor Combination", "Bending Kamehameha"]
+      },
+      "Turtle School Outfit 2": {
+        "img": "../src/img/TurtleSchool2.jpg",
+        "skills": ["Wild Sense", "Solar Flare", "Kamehameha", "Meteor Combination", "Bending Kamehameha"]
+      },
+      "Turtle School Emblem Damaged": {
+        "img": "../src/img/TurtleSchoolDamaged.jpg",
+        "skills": ["Wild Sense", "Solar Flare", "Kamehameha", "Meteor Combination", "Bending Kamehameha"]
+      },
+      "Power Pole": {
+        "img": "../src/img/GokuEarlyPowerPole.jpg",
+        "skills": ["Wild Sense", "Solar Flare", "Kamehameha", "Power Pole", "Bending Kamehameha"],
+        "combined": ["Dragon Tiger Whirlwind Dance", "Dragon Tiger Lightning Dance"]
+      },
+      "King Kai Emblem": {
+        "img": "../src/img/KingKaiGi.jpg",
+        "skills": ["Give me Enegy", "Kaiohken", "Kamehameha", "Kaioken Attack", "Spirit Bomb"],
+        "combined": "Dual Spirit Bomb"
+      },
+      "King Kai Emblem Damaged": {
+        "img": "../src/img/KingKaiDamaged.jpg",
+        "skills": ["Give me Enegy", "Kaiohken", "Kamehameha", "Kaioken Attack", "Spirit Bomb"],
+        "combined": "Dual Spirit Bomb"
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "KidGohan": {
+    "name": "Kid Gohan",
+    "skins": {
+      "Piccolo Outfit": {
+        "img": "../src/img/PiccoloOutfit.jpg",
+        "skills": ["Super Unyielding Spirit", "Afterimage Strike", "Masenko", "Energy Blast Barrage", "Wild Rush Blaster"]
+      },
+      "Namek Outfit": {
+        "img": "../src/img/NamekOutfit.jpg",
+        "skills": ["Super Unyielding Spirit", "Afterimage Strike", "Masenko", "Energy Blast Barrage", "Wild Rush Blaster"]
+      },
+      "Saiyan Battle Armor Outfit": {
+        "img": "../src/img/GohanSaiyanBattleArmor.jpg",
+        "skills": ["Super Unyielding Spirit", "Afterimage Strike", "Masenko", "Energy Blast Barrage", "Wild Rush Blaster"]
+      }
+    }
+  },
+  "PiccoloEarly": {
+    "name": "Piccolo (Early)",
+    "skins": {
+      "Outfit 1": {
+        "img": "../src/img/Piccolo1.jpg",
+        "skills": ["All Out", "Paralyze Beam", "Explosive Demon Wave", "Explosive Breath Cannon", "Special Beam Cannon"],
+        "combined": ["Z fighters combo", "Full Nelson Special Beam Cannon"]
+      },
+      "Outfit 2": {
+        "img": "../src/img/Piccolo2.jpg",
+        "skills": ["All Out", "Paralyze Beam", "Explosive Demon Wave", "Explosive Breath Cannon", "Special Beam Cannon"],
+        "combined": ["Z fighters combo", "Full Nelson Special Beam Cannon"]
+      },
+      "Damaged": {
+        "img": "../src/img/PiccoloDamaged.jpg",
+        "skills": ["All Out", "Paralyze Beam", "Explosive Demon Wave", "Explosive Breath Cannon", "Special Beam Cannon"],
+        "combined": ["Z fighters combo", "Full Nelson Special Beam Cannon"]
+      }
+    }
+  },
+  "VegetaScouter": {
+    "name": "Vegeta (Scouter)",
+    "skins": {
+      "Outfit 1": {
+        "img": "../src/img/VegetaScouter1.jpg",
+        "skills": ["Explosive Wave", "Saiyan Spirit", "Shine Shot", "Galaxy Breaker", "Galick Gun"]
+      },
+      "Damaged": {
+        "img": "../src/img/VegetaScouter2.jpg",
+        "skills": ["Explosive Wave", "Saiyan Spirit", "Galick Gun", "Finish Blaster", "Dirty Fireworks"]
+      },
+      "Outfit 2": {
+        "img": "../src/img/VegetaScouter3.jpg",
+        "skills": ["Explosive Wave", "Saiyan Spirit", "Galick Gun", "Final Galick Cannon", "Final Crash"]
+      },
+      "Outfit 3": {
+        "img": "../src/img/VegetaScouter3.jpg",
+        "skills": ["Explosive Wave", "I am a Super Saiyan", "Galick Gun", "Big Bang Storm", "Super Galick Gun"]
+      }
+    }
+  },
+  "Krillin": {
+    "name": "Krillin",
+    "skins": {
+      "Outfit 1": {
+        "img": "../src/img/KrillinOutfit1.jpg",
+        "skills": ["Solar Flare", "Afterimage Strike", "Kamehameha", "Spread Energy Wave", "Chain Destructo Disk"]
+      },
+      "Outfit 2": {
+        "img": "../src/img/KrillinOutfit2.jpg",
+        "skills": ["Solar Flare", "Afterimage Strike", "Kamehameha", "Spread Energy Wave", "Chain Destructo Disk"]
+      },
+      "Namek Outfit": {
+        "img": "../src/img/KrillinOutfit3.jpg",
+        "skills": ["Solar Flare", "Afterimage Strike", "Kamehameha", "Spread Energy Wave", "Chain Destructo Disk"]
+      },
+      "Saiyan Battle Armor Outfit": {
+        "img": "../src/img/KrillinOutfit4.jpg",
+        "skills": ["Solar Flare", "Afterimage Strike", "Kamehameha", "Spread Energy Wave", "Chain Destructo Disk"]
+      }
+    }
+  },
+  "Yamcha": {
+    "name": "Yamcha",
+    "skins": {
+      "Outfit 1": {
+        "img": "../src/img/Yamcha1.jpg",
+        "skills": ["Afterimage", "Power up to the very Limit", "Kamehameha", "Wolf Fang Fist", "Power Ball"]
+      },
+      "Outfit 2": {
+        "img": "../src/img/Yamcha2.jpg",
+        "skills": ["Afterimage", "Power up to the very Limit", "Kamehameha", "Wolf Fang Fist", "Power Ball"]
+      },
+      "Bandit Outfit": {
+        "img": "../src/img/Yamcha3.jpg",
+        "skills": ["Afterimage", "Power up to the very Limit", "Kamehameha", "Wolf Fang Fist", "Power Ball"]
+      }
+    }
+  },
+  "TrunksSword": {
+    "name": "Trunks (Sword)",
+    "skins": {
+      "Outfit 1": {
+        "img": "../src/img/TrunksSword1.jpg",
+        "skills": ["Afterimage", "Power up to the very Limit", "Finish Buster", "Burning Storm", "Lightning Sword Slash"]
+      },
+      "Outfit 2": {
+        "img": "../src/img/TrunksSword2.jpg",
+        "skills": ["Afterimage", "Power up to the very Limit", "Finish Buster", "Burning Storm", "Lightning Sword Slash"]
+      },
+      "No jacket": {
+        "img": "../src/img/TrunksSword3.jpg",
+        "skills": ["Afterimage", "Power up to the very Limit", "Finish Buster", "Burning Storm", "Lightning Sword Slash"]
+      }
+    },
+    "transformations": {
+      "Super Saiyan": {
+        "skins": {
+          "Outfit 1": {
+            "img": "../src/img/TrunksSwordSuperSaiyan1.jpg",
+            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "God Breaker", "Shining Sword Slash"]
+          },
+          "Outfit 2": {
+            "img": "../src/img/TrunksSwordSuperSaiyan2.jpg",
+            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "Buster Cannon", "Shining Sword Slash"]
+          },
+          "No jacket": {
+            "img": "../src/img/TrunksSwordSuperSaiyan3.jpg",
+            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "God Breaker", "Shining Sword Slash"]
+          }
+        }
+      }
+    }
+  }
+}
