@@ -6,7 +6,7 @@ const imagemPersonagem = document.getElementById('imagemPersonagem');
 
 const dbSkills = document.querySelector('.skills')
 async function db() {
-    const url = '../api/charactersOriginal.json';
+    const url = 'https://joao11092005.github.io/dbz-sparking-zero/api/charactersOriginal.json';
     const resultado = await fetch(url)
     const data = await resultado.json()
     // console.log(data[0]['name'])
