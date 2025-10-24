@@ -1,8 +1,8 @@
 {
-  "GokuEarly": {
+  "Goku (Early)": {
     "name": "Goku (Early)",
     "skins": {
-      "Turtle School Emblem": {
+      "0": {
         "img": "../src/img/TurtleSchoolGI.jpg",
         "skills": ["Wild Sense", "Solar Flare", "Kamehameha", "Meteor Combination", "Bending Kamehameha"]
       },
@@ -33,10 +33,10 @@
     "transformations": {},
     "fusions": {}
   },
-  "KidGohan": {
+  "Kid Gohan": {
     "name": "Kid Gohan",
     "skins": {
-      "Piccolo Outfit": {
+      "0": {
         "img": "../src/img/PiccoloOutfit.jpg",
         "skills": ["Super Unyielding Spirit", "Afterimage Strike", "Masenko", "Energy Blast Barrage", "Wild Rush Blaster"]
       },
@@ -50,10 +50,10 @@
       }
     }
   },
-  "PiccoloEarly": {
+  "Piccolo (Early)": {
     "name": "Piccolo (Early)",
     "skins": {
-      "Outfit 1": {
+      "0": {
         "img": "../src/img/Piccolo1.jpg",
         "skills": ["All Out", "Paralyze Beam", "Explosive Demon Wave", "Explosive Breath Cannon", "Special Beam Cannon"],
         "combined": ["Z fighters combo", "Full Nelson Special Beam Cannon"]
@@ -73,7 +73,7 @@
   "VegetaScouter": {
     "name": "Vegeta (Scouter)",
     "skins": {
-      "Outfit 1": {
+      "0": {
         "img": "../src/img/VegetaScouter1.jpg",
         "skills": ["Explosive Wave", "Saiyan Spirit", "Shine Shot", "Galaxy Breaker", "Galick Gun"]
       },
@@ -129,10 +129,10 @@
       }
     }
   },
-  "TrunksSword": {
+  "Future Trunks (Sword)": {
     "name": "Trunks (Sword)",
     "skins": {
-      "Outfit 1": {
+      "0": {
         "img": "../src/img/TrunksSword1.jpg",
         "skills": ["Afterimage", "Power up to the very Limit", "Finish Buster", "Burning Storm", "Lightning Sword Slash"]
       },
@@ -146,22 +146,1030 @@
       }
     },
     "transformations": {
-      "Super Saiyan": {
+      "0": {
         "skins": {
-          "Outfit 1": {
-            "img": "../src/img/TrunksSwordSuperSaiyan1.jpg",
-            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "God Breaker", "Shining Sword Slash"]
+          "0": {
+            "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/c0/38_SSJTrunksZ1.png",
+            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "God Breaker", "Shining Sword Slash"],
+            "name": "Super Sayan"
           },
-          "Outfit 2": {
+          "1": {
             "img": "../src/img/TrunksSwordSuperSaiyan2.jpg",
-            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "Buster Cannon", "Shining Sword Slash"]
+            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "Buster Cannon", "Shining Sword Slash"],
+            "name": "Super Sayan 2"
           },
-          "No jacket": {
+          "2": {
             "img": "../src/img/TrunksSwordSuperSaiyan3.jpg",
-            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "God Breaker", "Shining Sword Slash"]
+            "skills": ["Explosive Wave", "Burning Heart", "Burning Attack", "God Breaker", "Shining Sword Slash"],
+            "name": "Super Sayan 3"
           }
         }
       }
     }
+  },
+  "GokuMid": {
+    "name": "Goku (Mid)",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/22/13_GokuZ2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Teen Gohan": {
+    "name": "Teen Gohan",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/24/GohanTeen_Outfit3.png",
+        "skills": ["Kamehameha", "Hidden Potential", "Masenko", "Explosive Cannon", "Fierce Combination"]
+      }
+    },
+    "transformations": {
+      "0": {
+        "skins": {
+          "0": {
+            "name": "Super Saiyan",
+            "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/bd/32_SSJGohanT.png",
+            "skills": ["Explosive Wave", "Super Kamehameha", "Raging Masenko", "Super Assault Combo", "Full Power"]
+          },
+          "1": {
+            "name": "Super Saiyan 2",
+            "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/ec/33_SSJ2GohanT.png",
+            "skills": ["Explosive Wave", "Unforgivable", "Explosive Rush", "Super Kamehameha", "Father-Son Kamehameha"]
+          }
+        }
+      }
+    },
+    "fusions": {}
+  },
+  "PiccoloEnd": {
+    "name": "Piccolo (End)",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/da/02_PiccoloZ1.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Vegeta": {
+    "name": "Vegeta",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/3/3b/34_VegetaZ2.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Tien": {
+    "name": "Tien",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/76/07_Tien.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Chiaotsu": {
+    "name": "Chiaotsu",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/21/08_Chiaotzu.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "FutureTrunksTeen": {
+    "name": "Future Trunks (Teen)",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/29/BT3-42_Trunks.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "GokuEnd": {
+    "name": "Goku (End)",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/0a/56_GokuZ3.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Gohan": {
+    "name": "Gohan",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/bf/60_GohanA.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "UltimateGohan": {
+    "name": "Ultimate Gohan",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/8f/Dlc03_UGohanSH.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "VegetaEnd": {
+    "name": "Vegeta (End)",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/51/66_VegetaZ3.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "MajinVegeta": {
+    "name": "Majin Vegeta",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/ff/82_MVegetaZ3.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Goten": {
+    "name": "Goten",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f7/69_Goten.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "KidTrunks": {
+    "name": "Kid Trunks",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/57/71_TrunksZ3.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "GokuGT": {
+    "name": "Goku (GT)",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/c3/163_GokuGT.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "FutureGohan": {
+    "name": "Future Gohan",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/5b/BT3-160_FGohan.png/",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "VegetaGT": {
+    "name": "Vegeta (GT)",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/91/167_SSJ4VegetaGT.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Videl": {
+    "name": "Videl",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2b/65_Videl.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Hercule": {
+    "name": "Hercule",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/a/a2/BT3-56_Hercule.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Uub": {
+    "name": "Uub",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/e1/170_UubGT.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "PanGT": {
+    "name": "Pan (GT)",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/9c/169_PanGT.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "MutenRoshi": {
+    "name": "Muten Roshi",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/e9/179_MasterRoshi.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Yajirobe": {
+    "name": "Yajirobe",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2d/181_Yajirobe.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Nail": {
+    "name": "Nail",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/dc/30_Nail.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Shin": {
+    "name": "Shin",
+    "skins": {
+      "0": {
+        "img": "",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Raditz": {
+    "name": "Raditz",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/5c/03_Raditz.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Nappa": {
+    "name": "Nappa",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/94/12_Nappa.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Saibaiman": {
+    "name": "Saibaiman",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/1d/09_Saibaman.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "CaptainGinyu": {
+    "name": "Captain Ginyu",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/8a/20_CaptainGinyu.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Jeice": {
+    "name": "Jeice",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/6/6d/23_Jeice.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Burter": {
+    "name": "Burter",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/86/22_Burter.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Recoome": {
+    "name": "Recoome",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/1d/21_Recoome.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Gurdo": {
+    "name": "Gurdo",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/93/24_Guldo.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Zarbon": {
+    "name": "Zarbon",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/78/17_Zarbon.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Dodoria": {
+    "name": "Dodoria",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/08/16_Dodoria.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Frieza": {
+    "name": "Frieza",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/3/31/28_4thFriezaZ.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "MechaFrieza": {
+    "name": "Mecha Frieza",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/eb/39_MFriezaZ.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Appule": {
+    "name": "Appule",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/a/a4/Appule_BT2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Cui": {
+    "name": "Cui",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/a/ae/19_Cui.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "FriezaSoldier": {
+    "name": "Frieza Soldier",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/b2/FSoldier_BT2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "KingCold": {
+    "name": "King Cold",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/3/3d/40_KingCold.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "KingVegeta": {
+    "name": "King Vegeta",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/17/BT3-72_KVegeta.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Cell": {
+    "name": "Cell",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/e9/50_1stCell.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "CellJr": {
+    "name": "Cell Jr.",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/b2/53_CellJr.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "DrGero": {
+    "name": "Dr. Gero",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/ce/42_DrGero.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Android19": {
+    "name": "Android 19",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/80/41_Android19.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Android17": {
+    "name": "Android 17",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/b5/43_Android17Z.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Android18": {
+    "name": "Android 18",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/ce/44_Android18.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Android16": {
+    "name": "Android 16",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/95/45_Android16.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "MajinBuu": {
+    "name": "Majin Buu",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/03/83_MajinBuu.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "EvilBuu": {
+    "name": "Evil Buu",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/4/4c/84_MajinBuuEvil.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "SuperBuu": {
+    "name": "Super Buu",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/28/85_SuperBuu.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "KidBuu": {
+    "name": "Kid Buu",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/4/40/88_KidBuu.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Babidi": {
+    "name": "Babidi",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/53/80_Babidi.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Spopovich": {
+    "name": "Spopovich",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/0d/79_Spopovich.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "DemonKingDabura": {
+    "name": "Demon King Dabura",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2c/DKDabura_BT2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Bardock": {
+    "name": "Bardock",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/14/156_BardockDBMinus.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Fasha": {
+    "name": "Fasha",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/72/BT3-76_Fasha.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "GarlicJr": {
+    "name": "Garlic Jr.",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/71/GarlicJr_BT2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "DrWheelo": {
+    "name": "Dr. Wheelo",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/7a/137_DrWheelo.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Turles": {
+    "name": "Turles",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/09/138_Turles.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "LordSlug": {
+    "name": "Lord Slug",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f5/139_LordSlug.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Salza": {
+    "name": "Salza",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/e2/Salza_BT2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Cooler": {
+    "name": "Cooler",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/96/141_Cooler.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "MetalCooler": {
+    "name": "Metal Cooler",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/9e/143_MetalCooler.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Broly": {
+    "name": "Broly",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/ee/146_BrolyZ.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Android13": {
+    "name": "Android 13",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/a/a7/144_Android13.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Zangya": {
+    "name": "Zangya",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/7e/BT3-135_Zangya.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Bojack": {
+    "name": "Bojack",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/3/3a/149_Bojack.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Janemba": {
+    "name": "Janemba",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/1f/151_Janemba.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Pikkon": {
+    "name": "Pikkon",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/91/BT3-62_Pikkon.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Tapion": {
+    "name": "Tapion",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f8/154_Tapion.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Hildegarn": {
+    "name": "Hildegarn",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/b0/155_Hirudegarn.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "BabyVegeta": {
+    "name": "Baby Vegeta",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/ea/172_BabyVegetaGT.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "HellFighter17": {
+    "name": "Hell Fighter 17",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f7/BT3-145_S17.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "NuovaShenlong": {
+    "name": "Nuova Shenlong",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/3/37/BT3-146_NuovaShenron.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "SynShenlong": {
+    "name": "Syn Shenlong",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f9/176_SynShenronGT.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "DemonKingPiccolo": {
+    "name": "Demon King Piccolo",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/8b/DKPiccolo_BT2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Tambourine": {
+    "name": "Tambourine",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/db/BT3-155_Tambourine.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "PilafMachine": {
+    "name": "Pilaf Machine",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/ea/BT3-153_Pilaf.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Devilman": {
+    "name": "Devilman",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/d8/BT3-152_Devilman.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "GeneralBlue": {
+    "name": "General Blue",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/7e/BT3-151_GBlue.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "TaoPaiPai": {
+    "name": "Tao Pai Pai",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/b0/GTao_BT2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "CyborgTao": {
+    "name": "Cyborg Tao",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/92/CTao_BT2.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "KidGoku": {
+    "name": "Kid Goku",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/fb/BT3-12_KidGoku.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "KidChiChi": {
+    "name": "Kid Chi Chi",
+    "skins": {
+      "0": {
+        "img": "",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "GrandpaGohan": {
+    "name": "Grandpa Gohan",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/3/32/BT3-69_Grandpa.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Nam": {
+    "name": "Nam",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/86/BT3-70_Nam.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "Android8": {
+    "name": "Android 8",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/d1/BT3-71_A8.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
+  },
+  "AraleNorimaki": {
+    "name": "Arale Norimaki",
+    "skins": {
+      "0": {
+        "img": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/ca/BT3-157_Arale.png",
+        "skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5"]
+      }
+    },
+    "transformations": {},
+    "fusions": {}
   }
 }

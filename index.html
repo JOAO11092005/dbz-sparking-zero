@@ -7,6 +7,7 @@
     <title>Dragon Ball: Sparking! Zero</title>
     <link rel="stylesheet" href="./src/css/reset.css">
     <link rel="stylesheet" href="./src/css/estilo.css">
+    <link rel="stylesheet" href="./src/css/responsive.css">
 
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,10 +18,45 @@
 </head>
 
 <body>
-    <div class="page-block desativada">
-        <p>Pagina bloqueada</p>
+    <div class="detail">
+        <div class="card-page">
+           
+               
+                 <div class="sair" title="Sair" onclick="msg('fechar')"></div>
+               
+            
+            <div class="protect-image">
+                <img id="imagemPersonagem" src="https://static.wikia.nocookie.net/dbzsparkingzero/images/a/a8/01_GokuZ1.png"
+                    alt="Imagem Personagem">
+                <div class="transformations">
+                       <div class="transform">
+                           
+                       </div>
+                       
+                </div>
+            </div>
+
+            <div class="description">
+                <h1 id="nome">Name</h1>
+                
+
+                <h2>skills</h2>
+
+                <div class="skills">
+
+                </div>
+            </div>
+        </div>
+     
+
     </div>
-    <div class="fundo">
+    <div class="page-block desativada">
+        <video autoplay muted loop src="https://pub-37e49475952c4bdbb7f38a39aab04d71.r2.dev/Goku%20VS%20Broly%2C%20Insane%20Battle%2C%20Dragon%20Ball%20Sparking%20Zero%2C%204K%2060FPS..mp4">
+           
+        </video>
+        <p>Pagina em manutenção</p>
+    </div>
+    <div class="fundo" onclick="">
         <header>
             <img src="https://dragonball-sparking-zero.vercel.app/src/image/logo-teste.png" alt="Logo SZ">
 
@@ -48,7 +84,7 @@
 
     </div>
     <script src="./src/js/index.js"></script>
-    <script src="https://dbzdata.netlify.app/src/js/securitImage.js"></script>
+    <script src="./src/js/securitImage.js"></script>
 </body>
 
 </html>

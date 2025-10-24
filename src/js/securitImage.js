@@ -8,7 +8,7 @@ function imagem(resposta) {
         pageBlock.classList.remove("desativada")
         body.style.background = `url('https://www.publicdomainpictures.net/pictures/200000/nahled/plain-black-background.jpg') center center no-repeat`;
         body.style.backgroundColor = '#000000'
-    } else {
+    } else if(resposta === ''){
         img.style.display = 'block'
     }
 }

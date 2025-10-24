@@ -13,15 +13,15 @@
   },
   {
     "name": "Vegeta (Scouter)",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/94/10_VegetaZ1.png"
+    "image": "../api/images/4k/vegeta.png"
   },
   {
     "name": "Krillin",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2c/Krillin_Outfit1.png"
+    "image": "../api/images/4k/Krillin.png"
   },
   {
     "name": "Yamcha",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/09/Yamcha_Outfit2.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/7b/05_Yamcha.png"
   },
   {
     "name": "Future Trunks (Sword)",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Goku (Mid)",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/1c/GokuZMid_Outfit3.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/22/13_GokuZ2.png"
   },
   {
     "name": "Teen Gohan",
@@ -37,19 +37,19 @@
   },
   {
     "name": "Piccolo (End)",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/bd/Piccolo_Outfit3.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/da/02_PiccoloZ1.png/"
   },
   {
     "name": "Vegeta",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/05/VegetaZEarly_Outfit2-4.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/3/3b/34_VegetaZ2.png/"
   },
   {
     "name": "Tien",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f6/Tien_Outfit3.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/76/07_Tien.png"
   },
   {
     "name": "Chiaotsu",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/21/08_Chiaotzu.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/21/08_Chiaotzu.png/"
   },
   {
     "name": "Future Trunks (Teen)",
@@ -65,31 +65,31 @@
   },
   {
     "name": "Ultimate Gohan",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/6/64/64_UGohanA.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/8f/Dlc03_UGohanSH.png/"
   },
   {
     "name": "Vegeta (End)",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/51/66_VegetaZ3.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/51/66_VegetaZ3.png/"
   },
   {
     "name": "Majin Vegeta",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/ff/82_MVegetaZ3.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/ff/82_MVegetaZ3.png/"
   },
   {
     "name": "Goten",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f7/69_Goten.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f7/69_Goten.png/"
   },
   {
     "name": "Kid Trunks",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/57/71_TrunksZ3.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/57/71_TrunksZ3.png/"
   },
   {
     "name": "Goku (GT)",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/c3/163_GokuGT.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/c3/163_GokuGT.png/"
   },
   {
     "name": "Future Gohan",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2a/89_GohanF.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/5b/BT3-160_FGohan.png/"
   },
   {
     "name": "Vegeta (GT)",
@@ -97,15 +97,15 @@
   },
   {
     "name": "Videl",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/7b/Videl_Outfit2.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2b/65_Videl.png"
   },
   {
     "name": "Hercule",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/a/a1/55_MrSatan.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/a/a2/BT3-56_Hercule.png"
   },
   {
     "name": "Uub",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/ee/UubGT_Outfit1.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/e1/170_UubGT.png"
   },
   {
     "name": "Pan (GT)",
@@ -129,7 +129,7 @@
   },
   {
     "name": "Raditz",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/c/cc/Raditz_Outfit1.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/5/5c/03_Raditz.png"
   },
   {
     "name": "Nappa",
@@ -149,7 +149,7 @@
   },
   {
     "name": "Burter",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/e9/Burter_Outfit1.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/8/86/22_Burter.png"
   },
   {
     "name": "Recoome",
@@ -169,15 +169,15 @@
   },
   {
     "name": "Frieza",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/9e/25_1stFriezaZ.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/3/31/28_4thFriezaZ.png"
   },
   {
     "name": "Mecha Frieza",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f8/MFrieza_Outfit1.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/eb/39_MFriezaZ.png"
   },
   {
     "name": "Appule",
-    "image": "Não existe"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/a/a4/Appule_BT2.png"
   },
   {
     "name": "Cui",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Frieza Soldier",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/0/05/15_FriezaSoldier.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/b2/FSoldier_BT2.png"
   },
   {
     "name": "King Cold",
@@ -197,7 +197,7 @@
   },
   {
     "name": "Cell",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/4/46/54_SPCell.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/e9/50_1stCell.png"
   },
   {
     "name": "Cell Jr.",
@@ -249,11 +249,11 @@
   },
   {
     "name": "Demon King Dabura",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/b/bb/81_Dabura.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/2/2c/DKDabura_BT2.png"
   },
   {
     "name": "Bardock",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/dc/Bardock_Outfit2.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/14/156_BardockDBMinus.png"
   },
   {
     "name": "Fasha",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Garlic Jr.",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/70/136_SuperGarlicJr.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/7/71/GarlicJr_BT2.png"
   },
   {
     "name": "Dr. Wheelo",
@@ -273,11 +273,11 @@
   },
   {
     "name": "Lord Slug",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/6/61/140_LordSlugGF.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/f5/139_LordSlug.png"
   },
   {
     "name": "Salza",
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/820ad535-c310-4704-a9bc-eecf26bba444/d9bgvxp-c6ebf2ce-94c6-410d-a73d-c91b747735f0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84MjBhZDUzNS1jMzEwLTQ3MDQtYTliYy1lZWNmMjZiYmE0NDQvZDliZ3Z4cC1jNmViZjJjZS05NGM2LTQxMGQtYTczZC1jOTFiNzQ3NzM1ZjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xGgDhDgbpclNycu1liWAB9n5DqXIg41wZvNOJw-atZo"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/e2/Salza_BT2.png"
   },
   {
     "name": "Cooler",
@@ -305,11 +305,11 @@
   },
   {
     "name": "Janemba",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/4/44/152_SuperJanemba.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/1/1f/151_Janemba.png"
   },
   {
     "name": "Pikkon",
-    "image": "./src/img/Pikkon.jpg"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/91/BT3-62_Pikkon.png"
   },
   {
     "name": "Tapion",
@@ -345,7 +345,7 @@
   },
   {
     "name": "Pilaf Machine",
-    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/d/df/Pilaf_BT2.png"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/e/ea/BT3-153_Pilaf.png"
   },
   {
     "name": "Devilman",
@@ -361,15 +361,15 @@
   },
   {
     "name": "Cyborg Tao",
-    "image": "./src/img/CyborgTao.jpg"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/9/92/CTao_BT2.png"
   },
   {
     "name": "Kid Goku",
-    "image": "./src/img/KidGoku.jpg"
+    "image": "https://static.wikia.nocookie.net/dbzsparkingzero/images/f/fb/BT3-12_KidGoku.png"
   },
   {
     "name": "Kid Chi Chi",
-    "image": "./src/img/Chichi.jpg"
+    "image": ""
   },
   {
     "name": "Grandpa Gohan",

@@ -1,0 +1,12 @@
+@media (max-width: 849px) {
+    header>ul {
+        display: none;
+    }
+
+    .personagem>p,
+    .personagem>.character {
+        background: #000000;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 1) 11%, rgba(0, 0, 0, 0) 51%);
+        border: 3px solid rgb(255, 255, 255);
+    }
+}
